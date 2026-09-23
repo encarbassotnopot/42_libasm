@@ -1,5 +1,5 @@
 NAME = libasm.a
-OBJS = ft_strlen.o
+OBJS = ft_strlen.o ft_strcpy.o ft_strcmp.o
 AS = nasm
 ASFLAGS = -g -f elf64
 ARFLAGS = rvc
